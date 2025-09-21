@@ -5,6 +5,7 @@
 **MICCAI 2025**
 
 [![Code][(https://github.com/499huangxingyu/FCPNe)](#)
+</div>
 
 # Citation
 If you find **FCPNet** useful, please cite:
