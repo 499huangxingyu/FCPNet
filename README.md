@@ -22,13 +22,31 @@ If you find **FCPNet** useful, please cite:
   pages     = {208--217}
 }
 
-# Usage
+🚀 Usage
+🧩 Network Architecture
 
-## Network Architecture
-- The core model is implemented in **`FCPNet.py`**.
+The core model is implemented in FCPNet.py.
 
-## Data Setup
-Set your dataset root in **`Utils/Options.py`**:
-```python
+📁 Data Setup
+
+Set your dataset root in Utils/Options.py:
+
 # Utils/Options.py
 data_path = "/path/to/your/dataset"
+
+🏋️ Training
+
+Use either the Python script or the shell launcher:
+
+# Python script
+python FCPNet_train.py
+
+# or shell script
+bash FCPNet_train.sh
+
+✅ Testing
+python FCPNet_test.py
+
+📦 Outputs
+
+All results are saved to ./Result.
