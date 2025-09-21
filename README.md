@@ -21,3 +21,14 @@ If you find **FCPNet** useful, please cite:
   volume    = {LNCS 15974},
   pages     = {208--217}
 }
+
+# Usage
+
+## Network Architecture
+- The core model is implemented in **`FCPNet.py`**.
+
+## Data Setup
+Set your dataset root in **`Utils/Options.py`**:
+```python
+# Utils/Options.py
+data_path = "/path/to/your/dataset"
