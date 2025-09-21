@@ -32,6 +32,7 @@ If you find **FCPNet** useful, please cite:
 python FCPNet_train.py
 # or
 bash FCPNet_train.sh
+```
 
 ### Test
 ```bash
