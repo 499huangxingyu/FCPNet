@@ -21,32 +21,3 @@ If you find **FCPNet** useful, please cite:
   volume    = {LNCS 15974},
   pages     = {208--217}
 }
-
-🚀 Usage
-🧩 Network Architecture
-
-The core model is implemented in FCPNet.py.
-
-📁 Data Setup
-
-Set your dataset root in Utils/Options.py:
-
-# Utils/Options.py
-data_path = "/path/to/your/dataset"
-
-🏋️ Training
-
-Use either the Python script or the shell launcher:
-
-# Python script
-python FCPNet_train.py
-
-# or shell script
-bash FCPNet_train.sh
-
-✅ Testing
-python FCPNet_test.py
-
-📦 Outputs
-
-All results are saved to ./Result.
