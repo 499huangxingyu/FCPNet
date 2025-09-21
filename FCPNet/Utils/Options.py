@@ -22,10 +22,10 @@ def FCPNet_args():
     # save
     parser.add_argument('--model_flag', type=int, default=20, help='save model with epoch')
     parser.add_argument('--check_flag', type=int, default=20, help='save checkpoint with epoch')
-    parser.add_argument('--save', type=str, default='./FCPNet/', help='Result saving')
-    parser.add_argument('--check_save', type=str, default='./FCPNet/checkpoint', help='checkpoint saving')
-    parser.add_argument('--model_save', type=str, default='./FCPNet/model', help='model saving')
-    parser.add_argument('--test_save', type=str, default='./FCPNet/test', help='model saving')
+    parser.add_argument('--save', type=str, default='./Result/', help='Result saving')
+    parser.add_argument('--check_save', type=str, default='./Result/checkpoint', help='checkpoint saving')
+    parser.add_argument('--model_save', type=str, default='./Result/model', help='model saving')
+    parser.add_argument('--test_save', type=str, default='./Result/test', help='model saving')
     parser.add_argument('--check_path', type=str, default=None, help='checkpoint path')
     # test
     parser.add_argument('--test_model', type=str, default='your models', help='saved test model')
