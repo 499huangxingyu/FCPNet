@@ -1,5 +1,10 @@
 # FCPNet
-### [MICCAI 2025] Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images
+<div align="center">
+
+# Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT Images  
+**MICCAI 2025**
+
+[![Code][(https://github.com/499huangxingyu/FCPNe)](#)
 
 # Citation
 If you find **FCPNet** useful, please cite:
