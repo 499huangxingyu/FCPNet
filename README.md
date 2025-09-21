@@ -4,6 +4,9 @@
 # Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT Images  
 **MICCAI 2025**
 
+**Authors:**  
+**Huang, Xingyu** · Wang, Shuo* · Liu, Chengcai · Sang, Haolin · Wu, Yi · Tian, Jie
+
 [Code]  [https://github.com/499huangxingyu/FCPNet](#)
 </div>
 
