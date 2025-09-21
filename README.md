@@ -32,3 +32,9 @@ If you find **FCPNet** useful, please cite:
 python FCPNet_train.py
 # or
 bash FCPNet_train.sh
+
+### Test
+```bash
+python FCPNet_test.py
+
+- **Outputs:** Results are saved to `./Result`.
