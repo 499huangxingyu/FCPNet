@@ -21,3 +21,14 @@ If you find **FCPNet** useful, please cite:
   volume    = {LNCS 15974},
   pages     = {208--217}
 }
+```
+## Usage
+
+- **Network:** implemented in `FCPNet.py`.
+- **Data path:** set `data_path` in `Utils/Options.py`.
+
+### Train
+```bash
+python FCPNet_train.py
+# or
+bash FCPNet_train.sh
