@@ -36,5 +36,6 @@ bash FCPNet_train.sh
 ### Test
 ```bash
 python FCPNet_test.py
+```
 
 - **Outputs:** Results are saved to `./Result`.
