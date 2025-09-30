@@ -1,10 +1,19 @@
 # FCPNet
 
 
-Code for **Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT Images**  
+<div align="center">
+
+# **Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT Images**  
 **MICCAI 2025**
 
-[Code]  [https://github.com/499huangxingyu/FCPNet](#)
+[![Paper](https://img.shields.io/badge/Paper-Springer%20LNCS-blue)](https://link.springer.com/chapter/10.1007/978-3-032-05182-0_21)
+
+**Authors:** Xingyu Huang, **Shuo Wang** ⋆, Chengcai Liu, Haolin Sang, Yi Wu, and Jie Tian  
+
+**Affiliation:** Beijing Advanced Innovation Center for Big Data-Based Precision Medicine,  
+School of Engineering Medicine, Beihang University, Beijing, China
+
+</div>
 
 
 # Citation
