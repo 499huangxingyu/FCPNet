@@ -8,7 +8,8 @@
 
 **Xingyu Huang**, Shuo Wang*, Chengcai Liu, Haolin Sang, Yi Wu, and Jie Tian  
 
-Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, School of Engineering Medicine, Beihang University, Beijing, China
+Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, 
+School of Engineering Medicine, Beihang University, Beijing, China
 
 </div>
 
