@@ -1,8 +1,7 @@
 
 <div align="center">
 
-# **Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT Images**  
-## MICCAI 2025
+# **Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT Images. (MICCAI 2025)**  
 
 [![Paper](https://img.shields.io/badge/Paper-Springer%20LNCS-blue)](https://link.springer.com/chapter/10.1007/978-3-032-05182-0_21)
 
