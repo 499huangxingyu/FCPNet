@@ -12,7 +12,7 @@ School of Engineering Medicine, Beihang University, Beijing, China
 
 </div>
 
-<br><br>
+<br>
 
 *If you find **FCPNet** useful, please cite:*
 
