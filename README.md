@@ -15,7 +15,7 @@ School of Engineering Medicine, Beihang University, Beijing, China
 
 
 
-If you find **FCPNet** useful, please cite:
+*If you find **FCPNet** useful, please cite:*
 
 ```bibtex
 @inproceedings{HuaXin_Feature_MICCAI2025,
