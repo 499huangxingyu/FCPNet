@@ -15,7 +15,6 @@ School of Engineering Medicine, Beihang University, Beijing, China
 
 
 
-# Citation
 If you find **FCPNet** useful, please cite:
 
 ```bibtex
@@ -30,21 +29,3 @@ If you find **FCPNet** useful, please cite:
   pages     = {208--217}
 }
 ```
-## Usage
-
-- **Network:** implemented in `FCPNet.py`.
-- **Data path:** set `data_path` in `Utils/Options.py`.
-
-### Train
-```bash
-python FCPNet_train.py
-# or
-bash FCPNet_train.sh
-```
-
-### Test
-```bash
-python FCPNet_test.py
-```
-
-- **Outputs:** Results are saved to `./Result`.
